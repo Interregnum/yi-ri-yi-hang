@@ -13,3 +13,7 @@
 #### 2025-09-15
 - [使用 functools.lru_cache 优化递归函数性能](https://mp.weixin.qq.com/s/dF-SxmEseHFNbzIBv3jFpQ)
 - [源代码](./2025-09-15.py)
+
+#### 2025-09-16
+- [用 pathlib 简化文件与目录操作](https://mp.weixin.qq.com/s/_iyppV6pW4lO-foyORfa1w)
+- [源代码](./2025-09-16.py)
