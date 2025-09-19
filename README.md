@@ -21,3 +21,7 @@
 #### 2025-09-17
 - [使用 enumerate 优雅地遍历序列并获取索引](https://mp.weixin.qq.com/s/t_RGFer6CQMGNW9ntJN7TQ)
 - [源代码](./2025-09-17.py)
+
+#### 2025-09-18
+- [使用 zip 并行遍历多个序列](https://mp.weixin.qq.com/s/wyLXO_CThSO6u8kSofzH2w)
+- [源代码](./2025-09-18.py)
