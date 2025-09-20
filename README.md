@@ -25,3 +25,7 @@
 #### 2025-09-18
 - [使用 zip 并行遍历多个序列](https://mp.weixin.qq.com/s/wyLXO_CThSO6u8kSofzH2w)
 - [源代码](./2025-09-18.py)
+
+#### 2025-09-19
+- [使用 collections.Counter 快速统计元素频率](https://mp.weixin.qq.com/s/FvbmzzgpvvoqiBGGUVmGKA)
+- [源代码](./2025-09-19.py)
