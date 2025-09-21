@@ -29,3 +29,7 @@
 #### 2025-09-19
 - [使用 collections.Counter 快速统计元素频率](https://mp.weixin.qq.com/s/FvbmzzgpvvoqiBGGUVmGKA)
 - [源代码](./2025-09-19.py)
+
+#### 2025-09-20
+- [使用 any 与 all 简化条件判断](https://mp.weixin.qq.com/s/vvDePCBu_fLkrP8c8xcA4w)
+- [源代码](./2025-09-20.py)
